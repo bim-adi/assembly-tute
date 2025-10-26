@@ -1,5 +1,7 @@
 # Hello, World! in Assembly
 
+https://notebooklm.google.com/notebook/508f5265-b7ac-4d56-9345-03ae517eaa1c
+
 This document explains how to write, assemble, and run a "Hello, World!" program in x86-64 assembly on a Linux system.
 
 ## The Assembly Code (`hello.asm`)
